@@ -6,3 +6,4 @@ site
 .tmp
 .publish
 TODO
+.idea
